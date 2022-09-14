@@ -1,0 +1,5 @@
+C:\Scool Code\scrumreview\scrumreview\scrumreview\obj\Debug\net6.0\scrumreview.csproj.AssemblyReference.cache
+C:\Scool Code\scrumreview\scrumreview\scrumreview\obj\Debug\net6.0\scrumreview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scool Code\scrumreview\scrumreview\scrumreview\obj\Debug\net6.0\scrumreview.AssemblyInfoInputs.cache
+C:\Scool Code\scrumreview\scrumreview\scrumreview\obj\Debug\net6.0\scrumreview.AssemblyInfo.cs
+C:\Scool Code\scrumreview\scrumreview\scrumreview\obj\Debug\net6.0\scrumreview.csproj.CoreCompileInputs.cache
